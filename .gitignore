@@ -1,5 +1,5 @@
 # sqlite
-.sqlite
+*.sqlite
 
 
 # Byte-compiled / optimized / DLL files
